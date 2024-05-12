@@ -1,1 +1,1 @@
-creates output subfolder
+outputs of various iterations of the CNN model
