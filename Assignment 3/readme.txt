@@ -1,1 +1,1 @@
-A new Assignment
+The 3rd and final assignment for ET3112: Image Processing and Machine Vision as conducted by Dr. Ranga Rodrigo and Dr. Sampath Perera. The requirement is to build a Convolutional Neural Network utilising a python library of choice (Tensorflow in this case) in order to build an image classifier using the CIFAR-10 dataset
